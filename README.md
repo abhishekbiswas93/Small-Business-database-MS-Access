@@ -97,9 +97,10 @@ WHERE
 
 ## SCHEMA DIAGRAM OR ACCESS RELATIONSHIP
 
-:point_down: Screenshot:
+:point_down:
 
-https://github.com/abhishekbiswas93/Small-Business-database-MS-Access/issues/1#issue-1203903981
+![image](https://user-images.githubusercontent.com/28976558/163290023-9801d6f9-feb1-46a8-ac39-97ef0cda14e3.png)
+
 
 
 ------------------
